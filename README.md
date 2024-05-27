@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://illesinnovate.hu">TheBossman</a></b>
+                <b><a target="_blank" href="https://illesinnovate.hu">Illés Ákos</a></b>
         </samp>
 </h3>
 
@@ -28,7 +28,7 @@
 <p align="center">
   <samp>
     <br>
-    「 I am a Website, Discord Bot and FiveM developer from <b>Győr</b> 」
+    「 I am a Webdeveloper, Webdesigner and Game Server Developer from <b>Győr</b> 」
     <br>
     <br>
   </samp>
@@ -62,7 +62,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: info@illesinnovate.hu<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://www.illesinnovate.hu/#contact)
+ 💬 &emsp; Ask me about anything [here]([https://www.illesinnovate.hu/#contact](https://illesinnovate.hu/contact))
 
 </p>
 
