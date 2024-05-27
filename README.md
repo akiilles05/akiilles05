@@ -62,7 +62,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: info@illesinnovate.hu<br/><br/>
- 💬 &emsp; Ask me about anything [here]([https://www.illesinnovate.hu/#contact](https://illesinnovate.hu/contact))
+ 💬 &emsp; Ask me about anything [here]([https://www.illesinnovate.hu/contact])
 
 </p>
 
