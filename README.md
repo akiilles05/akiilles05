@@ -103,9 +103,9 @@
 <hr/>
 <br/>
 
-![Ákos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p align="center">
+  ![Ákos's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiilles05&show_icons=true&theme=transparent)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akiilles05&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
