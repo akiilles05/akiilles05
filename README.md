@@ -1,65 +1,65 @@
-<h2 align="center" style="color: #DC143C;">
+<h2 align="center" style="color:#DC143C;">
   Welcome to Illés Ákos' World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<a href="https://komarev.com/ghpvc/?username=akiilles05">
-  <img align="right" src="https://komarev.com/ghpvc/?username=akiilles05&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akiilles05&label=Profile+Visitors&color=DC143C&style=flat" alt="Profile visitor" />
+</p>
 
-<h3 align="center">
-  <samp>&gt; Hey there! I'm 
-    <b><a target="_blank" href="https://illesinnovate.hu" style="color: #DC143C;">Illés Ákos</a></b>
+---
+
+<h3 align="center" style="color:#DC143C;">
+  <samp>Hey there! I'm 
+    <b><a target="_blank" href="https://illesinnovate.hu" style="color:#DC143C;">Illés Ákos</a></b>
   </samp>
 </h3>
 
-<p align="center" style="color: #333;">
-  <samp>
-    「 I am a Web Developer, Web Designer, and Game Server Developer from <b>Győr</b> 」
-    <br><br>
-    Passionate about coding, designing, and building amazing projects.
+<p align="center">
+  <samp style="color:#333;">
+    「 I am a Web Developer, Web Designer, and Game Server Developer from <b>Győr</b>. 」<br>
+    Passionate about creating innovative solutions for the digital world. 🚀
   </samp>
 </p>
 
 <p align="center">
   <a href="https://illesinnovate.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="www.linkedin.com/in/akosilles" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/akosilles" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/illesinnovate" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-DC143C?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-### 📝 About Me
+### 🌟 About Me
 
-<p>
+<p style="color:#333;">
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  ✌️ &nbsp; I enjoy programming and sharing knowledge. <br/>
-  ❤️ &nbsp; Passionate about learning new technologies and writing clean, efficient code. <br/>
-  📧 &nbsp; Reach me anytime: <a href="mailto:info@illesinnovate.hu" style="color: #DC143C;">info@illesinnovate.hu</a><br/>
-  💬 &nbsp; Have a question? Feel free to <a href="https://www.illesinnovate.hu/contact" style="color: #DC143C;">contact me</a>.
+  ✌️ &nbsp; I enjoy programming and sharing knowledge with the community. <br>
+  ❤️ &nbsp; Passionate about building clean, efficient, and user-friendly applications. <br>
+  📧 &nbsp; Reach me anytime: <a href="mailto:info@illesinnovate.hu" style="color:#DC143C;">info@illesinnovate.hu</a> <br>
+  💬 &nbsp; Have a question? Feel free to <a href="https://www.illesinnovate.hu/contact" style="color:#DC143C;">contact me</a>.
 </p>
 
 ---
 
-### ⚡ Technologies & Tools
+### 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -68,25 +68,25 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=akiilles05&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akiilles05&theme=dark&ring=DC143C&fire=DC143C&sideNums=DC143C" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/akiilles05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiilles05&theme=radical" alt="GitHub Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiilles05&theme=dracula" alt="GitHub Summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/akiilles05">
-    <img src="https://github-readme-stats.vercel.app/api?username=akiilles05&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akiilles05&show_icons=true&theme=radical&icon_color=DC143C" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/akiilles05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiilles05&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiilles05&layout=compact&theme=radical&title_color=DC143C" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiilles05&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiilles05&theme=github&bg_color=ffffff&color=DC143C&line=DC143C" alt="GitHub Activity Graph" />
 </p>
