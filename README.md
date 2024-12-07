@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center" style="color: #DC143C;">
   Welcome to Illés Ákos' World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
@@ -9,11 +9,11 @@
 
 <h3 align="center">
   <samp>&gt; Hey there! I'm 
-    <b><a target="_blank" href="https://illesinnovate.hu">Illés Ákos</a></b>
+    <b><a target="_blank" href="https://illesinnovate.hu" style="color: #DC143C;">Illés Ákos</a></b>
   </samp>
 </h3>
 
-<p align="center">
+<p align="center" style="color: #333;">
   <samp>
     「 I am a Web Developer, Web Designer, and Game Server Developer from <b>Győr</b> 」
     <br><br>
@@ -41,8 +41,8 @@
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   ✌️ &nbsp; I enjoy programming and sharing knowledge. <br/>
   ❤️ &nbsp; Passionate about learning new technologies and writing clean, efficient code. <br/>
-  📧 &nbsp; Reach me anytime: <a href="mailto:info@illesinnovate.hu">info@illesinnovate.hu</a><br/>
-  💬 &nbsp; Have a question? Feel free to <a href="https://www.illesinnovate.hu/contact">contact me</a>.
+  📧 &nbsp; Reach me anytime: <a href="mailto:info@illesinnovate.hu" style="color: #DC143C;">info@illesinnovate.hu</a><br/>
+  💬 &nbsp; Have a question? Feel free to <a href="https://www.illesinnovate.hu/contact" style="color: #DC143C;">contact me</a>.
 </p>
 
 ---
