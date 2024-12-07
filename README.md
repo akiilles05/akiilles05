@@ -105,7 +105,6 @@
 
 
 <p align="center">
-  ![Ákos's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiilles05&show_icons=true&theme=transparent)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akiilles05&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
@@ -122,5 +121,7 @@
 </a>
 
 
-
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akiilles05&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div>
+   ![Ákos's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiilles05&show_icons=true&theme=transparent)
+  ![Ákos's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akiilles05&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</div>
